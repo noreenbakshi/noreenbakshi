@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noreenbakshi
 - 👀 I’m interested in live projects
-- 🌱 I’m currently learning SQL and R
-- 💞️ I’m looking to collaborate on SQL and R projects(marketing domain)
+- 🌱 I’m currently learning SQL, R and Python
+- 💞️ I’m looking to collaborate on Data Science projects(marketing domain)
 - 📫 How to reach me : noreen25.bakshi@gmail.com
 
 <!---
