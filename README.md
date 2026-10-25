@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noreenbakshi
 - 👀 I’m interested in live projects
-- 🌱 I’m currently learning SQL, R and Python
+- 🌱 I’m a Senior Data Analyst working in Retail
 - 💞️ I’m looking to collaborate on Data Science projects(marketing domain)
 - 📫 How to reach me : noreen25.bakshi@gmail.com
 
